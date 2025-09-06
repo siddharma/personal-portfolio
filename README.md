@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website showcasing 12+ years of full-stack development experience, cloud expertise, and emerging technology exploration in Terraform and Generative AI.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Dharmendra+Sid+Portfolio)
+![Portfolio Preview](https://github.com/siddharma/dharmendra-portfolio/blob/main/dharmendra-demo-portfplio.png)
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.com)
+[View Live Portfolio](https://github.com/siddharma/dharmendra-portfolio/blob/main/dharmendra-demo-portfplio.png)
 
 ## 📋 Table of Contents
 
